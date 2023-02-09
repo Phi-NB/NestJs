@@ -1,0 +1,5 @@
+// nest generate module name-new-module
+
+// nest generate controller name-module
+
+// nest generate service name-module
